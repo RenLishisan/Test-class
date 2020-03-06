@@ -32,6 +32,6 @@
    * ` git merge x ` //合并分支”x”、
    * GitHub上传命令：先获取github的仓库地址进行连接，然后通过` git push -u origin master `进行上传至“master”主线
 ### 以上命令主要使用`Git` `Cmder` `Vscode`等配合使用。
-## 如果觉得本篇文章对你有帮助欢迎点击 [荏狸十三的主页](https://www.github.com/enLishisan)  查看更多入门教程！ 
+## 如果觉得本篇文章对你有帮助欢迎点击 [荏狸十三的主页](https://www.github.com/RenLishisan)  查看更多入门教程！ 
 ## 感谢下方“写代码啦”提供教学支持
 ![写代码啦](https://static.xiedaimala.com/xdml/cdn/assets/black-logo-25c84e68b3770b75580e7dbba2b77ce68f7fc1794d35afac32057c2d4ea4c498.png)
